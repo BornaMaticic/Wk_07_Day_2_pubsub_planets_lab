@@ -1,0 +1,8 @@
+*{
+  background-color: Black;
+  color: White;
+}
+
+.planets-menu #Mercury p {
+  background-color: Blue;
+}
